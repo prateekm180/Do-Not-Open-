@@ -8,9 +8,9 @@
 
 Think:
 
-- Turning a volume slider into a boss fight
-- Replacing buttons with emotional suffering
-- Ignoring UX best practices like they personally offended me
+- About Your Decision 
+- Think Again if didn't think first time 
+- About Your Life Decisions you gonna make 
 
 This repository is a container.
 

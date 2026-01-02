@@ -1,4 +1,4 @@
-DO NOT OPEN PUBLIC LICENSE
+# DO NOT OPEN PUBLIC LICENSE
 Version 0.0.0 — Absolutely Not Approved
 
 Copyright (c) Whoever Thought This Was Funny
